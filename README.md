@@ -1,6 +1,8 @@
 ![logo](https://github.com/NisRajVats/NisRajVats/blob/main/githubbanner.png)
-<h1 align="center" style="color:#36CFC9; text-shadow: 0px 0px 10px #00FFAB;">Hi 👋, I'm Nishant Rajput</h1>
-<h3 align="center" style="color:#FFD700; text-shadow: 0px 0px 10px #FFD700;">A passionate frontend developer from India</h3>
+<h1 align="center" style="color:#36CFC9; text-shadow: 0px 0px 80px #FF4500;">Hi 👋, I'm Nishant Rajput</h1>
+<h3 align="center" style="color:#FFD700; text-shadow: 0px 0px 80px #FFD700;">A passionate frontend developer from India</h3>
+
+<img align="right"  alt="CodingImg" width="400px"  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🔭 I’m currently working on **<span style="color:#00FFAB; text-shadow: 0px 0px 5px #00FFAB;">Responsive WEB</span>**
 
