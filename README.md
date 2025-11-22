@@ -14,7 +14,7 @@
 
 - 🌐 Check out my portfolio at [https://nisrajvats.github.io/Portfolio/](https://nisrajvats.github.io/Portfolio/)
 
-- 💬 Ask me about **<span style="color:#FF4500; text-shadow: 0px 0px 5px #FF4500;">AI integration, Next.js, React, Full-stack development, or turning ideas into intelligent web apps</span>**
+- 💬 Ask me about **<span style="color:#FF4500; text-shadow: 0px 0px 5px #FF4500;">JavaScript React, Full-stack development, or turning ideas into intelligent web apps</span>**
 
 - 📫 How to reach me **<span style="color:#00BFFF; text-shadow: 0px 0px 5px #00BFFF;">rajputnishant393@gmail.com</span>**
 
