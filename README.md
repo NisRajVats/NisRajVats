@@ -4,11 +4,11 @@
 
 <img align="right"  alt="CodingImg" width="400px"  src="https://png.pngtree.com/png-vector/20250327/ourmid/pngtree-young-hacker-programmer-expert-coder-sitting-at-laptop-d-png-image_15882599.png">
 
-- 🔭 I'm currently working on **<span style="color:#00FFAB; text-shadow: 0px 0px 5px #00FFAB;">AI-Powered Resume Optimizer & Auto-Job Apply System</span>**
+- 🔭 I'm currently working on **<span style="color:#00FFAB; text-shadow: 0px 0px 5px #00FFAB;">GROBS-AI : AI-Powered Resume Optimizer</span>**
 
-- 🌱 I'm currently learning **<span style="color:#1DA1F2; text-shadow: 0px 0px 5px #1DA1F2;">Advanced AI Integration & Next.js App Router</span>**
+- 🌱 I'm currently learning **<span style="color:#1DA1F2; text-shadow: 0px 0px 5px #1DA1F2;">React.js and API integration</span>**
 
-- 💼 Currently interning at **<span style="color:#FF6B6B; text-shadow: 0px 0px 5px #FF6B6B;">OctaNet Services Pvt Ltd as Front-End Developer</span>**
+- 💼 Interned at **<span style="color:#FF6B6B; text-shadow: 0px 0px 5px #FF6B6B;">OctaNet Services Pvt Ltd as Front-End Developer</span>**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NisRajVats](https://github.com/NisRajVats)
 
@@ -24,9 +24,7 @@
 
 ## 🚀 What I'm Building
 
-- **AI-Powered Resume Optimizer**: Full-stack platform using Next.js, OpenAI GPT-4, and Vercel Edge Functions
-- **Automated Job Application System**: Smart job matching and application submission
-- **ChatGPT-style Career Assistant**: AI-driven career guidance integration
+- **AI-Powered Resume Optimizer**: Full-stack platform using React , Python , Node.js
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
