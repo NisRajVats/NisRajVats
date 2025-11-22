@@ -88,8 +88,8 @@
 ## 🏆 Featured Projects
 
 ### 🤖 [AI-Powered Resume Optimizer & Auto-Job Apply System](https://github.com/NisRajVats)
-- **Tech Stack**: Next.js, OpenAI GPT-4, Vercel Edge Functions, TypeScript
-- **Features**: AI resume analysis, automated job applications, career guidance chatbot
+- **Tech Stack**: React.js, Python , Tailwind, Gemini, JavaScript
+- **Features**: AI resume analysis, Optimiser, career guidance chatbot
 - **Status**: 🚧 In Development (Final Year Project)
 
 ### 🌐 [OctaNet Website Project](https://nisrajvats.github.io/octanet-aug-Landing/)
